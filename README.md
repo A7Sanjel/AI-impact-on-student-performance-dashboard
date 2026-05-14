@@ -153,7 +153,7 @@ Key visuals include:
 
 ### Overview Dashboard
 
-![Overview Dashboard](images/overview_dashboard.png)
+![Overview Dashboard](images/student_overview.png)
 
 ### AI Usage and Academic Performance
 
